@@ -1,10 +1,11 @@
-# Проект «Опросник»
+# Project Quiz
 
-### Описание
+### Description
 
-Проект выполнен в рамках онлайн-курса Udemy - React JS. Практический Курс 2020 (вкл. Хуки, Классы, Redux) (автор курса: Владилен Минин). Основной стек используемых технологий:
-- JavaScript(ES6)
+The project was completed as part of the Udemy - React JS online course. Practical Course 2020 (incl. Hooks, Classes, Redux) (course author: Vladilen Minin). The main stack of technologies used:
+
+- JavaScript (ES6)
 - React + Redux
 - Axios
 
-Для получения возможности создания собственного опроса необходимо пройти регистрацию (валидный email и password) и залогиниться в соответствующей вкладке всплыважщего меню приложения.
+To be able to create your own quiz, you need to register (valid email and password) and log in to the corresponding tab of the application pop-up menu.
